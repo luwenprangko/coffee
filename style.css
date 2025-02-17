@@ -1,0 +1,35 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+#coffee {
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    top: 50%;
+    left: 50%;
+    background: none;
+    border: none;
+    transform: translate(-50%, -50%);
+}
+#butterfly {
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    top: 50%;
+    left: 50%;
+    background: none;
+    border: none;
+    transform: translate(-50%, -50%);
+}
+#laptop {
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    top: 50%;
+    left: 50%;
+    background: none;
+    border: none;
+    transform: translate(-50%, -50%);
+}
